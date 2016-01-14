@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Spotlessofutah]]></title>
         <description><![CDATA[Spotlessofutah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spotlessofutah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 22:11:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 22:11:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spotlessofutah/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>TRUST THE BLUEOX TEAM</p>]]></description>
+            <link>https://thegrid.ai/spotlessofutah/de59fefa-1219-49f8-a951-541cffb830e1/index.html</link>
+            <guid isPermaLink="false">de59fefa-1219-49f8-a951-541cffb830e1</guid>
+            <pubDate>Thu, 14 Jan 2016 22:11:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a188c99e-fa1a-4428-8e92-383c852c50f0.jpg">]]></description>
-            <link>undefined2dad7eb6-293c-4df1-8356-5653b7592482/index.html</link>
+            <link>https://thegrid.ai/spotlessofutah/2dad7eb6-293c-4df1-8356-5653b7592482/index.html</link>
             <guid isPermaLink="false">2dad7eb6-293c-4df1-8356-5653b7592482</guid>
             <pubDate>Thu, 14 Jan 2016 22:11:17 GMT</pubDate>
         </item>
