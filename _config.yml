@@ -41,7 +41,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Commercial Office Cleaning Services
+title: Commercial Cleaning Services
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
