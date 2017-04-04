@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: EXPERIENCE QUALITY SERVICE
-datePublished: '2017-04-04T20:58:39.272Z'
-dateModified: '2017-04-04T20:58:38.806Z'
+datePublished: '2017-04-04T21:04:13.205Z'
+dateModified: '2017-04-04T21:04:12.479Z'
 title: ''
 author: []
 via: {}
@@ -22,4 +22,4 @@ _type: Article
 
 EXPERIENCE QUALITY SERVICE
 
-We seek every opportunity to bring your business added value. We're not just about cleaning your facilities (though we do that quite well!). We pay attention to your building's maintenance so you don't have to, impressing every individual that walks through your company's doors. We promise valuable janitorial work and outstanding customer service at affordable rates, without cutting corners or sacrificing results.
+We seek every opportunity to bring your business **added value**. We're not just about cleaning your facilities (though we do that quite well!). We pay attention to your building's maintenance so you don't have to, impressing every individual that walks through your company's doors. We promise valuable janitorial work and outstanding customer service at affordable rates, **without cutting corners or sacrificing results**.
