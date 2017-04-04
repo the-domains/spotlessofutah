@@ -4,8 +4,8 @@ description: >-
   Our company is built on a passion for customer service. We make sure every
   single person that joins our team is passionate and shares that same passion.
   You can trust our team to deliver on what we promise.
-dateModified: '2017-04-04T21:31:40.106Z'
-datePublished: '2017-04-04T21:31:40.849Z'
+dateModified: '2017-04-04T21:32:13.755Z'
+datePublished: '2017-04-04T21:32:14.574Z'
 title: WE HIRE THE BEST PEOPLE
 author: []
 publisher: {}
@@ -17,3 +17,5 @@ _type: Blurb
 
 ---
 ![Our company is built on a passion for customer service. We make sure every single person that joins our team is passionate and shares that same passion. You can trust our team to deliver on what we promise.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01a47d8f-6d6d-4c0c-a584-b763568a85c4.jpg)
+
+<button data-role="cta" style="">See what makes us great</button>
