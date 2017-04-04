@@ -61,7 +61,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -74,6 +73,9 @@ purpose:
   - type: contact
     url: 'tel:435.881.9189'
     label: Call 435.881.9189
+  - type: contact
+    url: 'mailto:info@spotlssofutah.com'
+    label: Contact us
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/855aa7b8-3139-4408-82eb-914bc60bff27.png
