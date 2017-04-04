@@ -75,7 +75,7 @@ purpose:
     label: Call 435.881.9189
   - type: contact
     url: 'mailto:info@spotlssofutah.com'
-    label: Contact us
+    label: 'email '
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/855aa7b8-3139-4408-82eb-914bc60bff27.png
