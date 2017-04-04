@@ -1,21 +1,19 @@
 ---
 inFeed: true
-description: >-
-  Our company is built on a passion for customer service. We make sure every
-  single person that joins our team is passionate and shares that same passion.
-  You can trust our team to deliver on what we promise.
-dateModified: '2017-04-04T21:34:08.006Z'
-datePublished: '2017-04-04T21:34:08.292Z'
-title: WE HIRE THE BEST PEOPLE
+description: WE HIRE THE BEST PEOPLE
+dateModified: '2017-04-04T21:36:04.930Z'
+datePublished: '2017-04-04T21:36:05.836Z'
+title: ''
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2017-04-04-we-hire-the-best-people.md
 starred: false
-datePublishedOriginal: '2017-04-04T21:30:22.596Z'
+datePublishedOriginal: '2017-04-04T21:36:05.836Z'
+sourcePath: _posts/2017-04-04-we-hire-the-best-people.md
 _type: Blurb
 
 ---
-![Our company is built on a passion for customer service. We make sure every single person that joins our team is passionate and shares that same passion. You can trust our team to deliver on what we promise.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01a47d8f-6d6d-4c0c-a584-b763568a85c4.jpg)
+WE HIRE THE BEST PEOPLE
 
-<button data-role="cta" style="">See what makes us great</button>
+Our company is built on a passion for customer service. We make sure every single person that joins our team is passionate and shares that same passion. You can trust our team to deliver on what we promise.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39fe0cb-feda-4cdd-b14f-cceffa18b50e.jpg)
