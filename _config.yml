@@ -1,28 +1,56 @@
-name: Spotlessofutah
-favicon: null
-layout_spectrum: 0.48808
-typography_spectrum: 0.84893
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.19003584046700583
+typography_spectrum: 0.27788366014027216
+color:
+  saturation: 0.45571312819893406
+  brandStrength: 0.43778356622581804
+  lightness: 0.10508256744141553
+  brandColors:
+    - '#4CDBFF'
+    - '#00A6D0'
+    - '#266D7F'
+    - '#000000'
+    - '#FFFFFF'
+  rhythmicContrast: 0.6245753800526889
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2d98d4'
-    - '#000000'
-    - '#ffffff'
-    - '#196a35'
-    - '#a7dff9'
-  brandStrength: 1
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: SPOTELSS
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: about us
+    id: f9a33562-5f49-4e51-95e9-c68ac47cdf9e
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e234b19a-6452-4b8e-9a5c-1723ef7a9c93.ico
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Commercial Office Cleaning Services
+content: []
+description: THE TIDY UPKEEP OF YOUR OFFICE REFLECTS ON YOUR BUSINESS. WE'LL MAKE IT SHINE.
+purpose:
+  - type: contact
+    url: 'tel:435.881.9189'
+    label: Call 435.881.9189
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/855aa7b8-3139-4408-82eb-914bc60bff27.png
+content_rating:
+  adult: false
