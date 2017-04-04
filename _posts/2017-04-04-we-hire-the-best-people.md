@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: WE HIRE THE BEST PEOPLE
-dateModified: '2017-04-04T21:36:04.930Z'
-datePublished: '2017-04-04T21:36:05.836Z'
+dateModified: '2017-04-04T21:36:19.135Z'
+datePublished: '2017-04-04T21:36:19.490Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-04-we-hire-the-best-people.md
 starred: false
 datePublishedOriginal: '2017-04-04T21:36:05.836Z'
-sourcePath: _posts/2017-04-04-we-hire-the-best-people.md
 _type: Blurb
 
 ---
