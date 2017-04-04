@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: EXPERIENCE QUALITY SERVICE
-dateModified: '2017-04-04T21:06:14.585Z'
-datePublished: '2017-04-04T21:06:15.541Z'
+dateModified: '2017-04-04T21:15:03.705Z'
+datePublished: '2017-04-04T21:15:03.859Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-04-experience-quality-service.md
 starred: false
 datePublishedOriginal: '2017-04-04T21:06:15.541Z'
-sourcePath: _posts/2017-04-04-experience-quality-service.md
 _type: Blurb
 
 ---
