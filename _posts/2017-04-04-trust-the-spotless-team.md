@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: TRUST THE SPOTLESS- TEAM
-dateModified: '2017-04-04T21:07:34.334Z'
-datePublished: '2017-04-04T21:07:35.083Z'
+dateModified: '2017-04-04T21:15:03.705Z'
+datePublished: '2017-04-04T21:15:03.853Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-04-04-trust-the-spotless-team.md
 starred: false
 datePublishedOriginal: '2017-04-04T21:07:35.083Z'
-sourcePath: _posts/2017-04-04-trust-the-spotless-team.md
 _type: Blurb
 
 ---
