@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'BLUEOX PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:'
-dateModified: '2017-04-04T21:25:26.136Z'
-datePublished: '2017-04-04T21:25:27.017Z'
+dateModified: '2017-04-04T21:26:48.104Z'
+datePublished: '2017-04-04T21:26:49.796Z'
 title: BANKS
 author: []
 publisher: {}
@@ -17,6 +17,9 @@ _type: Article
 
 ---
 BLUEOX PROVIDES CLEANING SERVICES TO THE FOLLOWING INDUSTRIES:
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24b3c0db-b5d7-43c1-a258-e0e5f643ff0a.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1495ec52-9f74-4ae5-acc9-e4e5907de86d.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef178293-a908-40c1-9a4e-e06807fed603.png)
