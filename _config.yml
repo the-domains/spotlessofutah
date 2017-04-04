@@ -28,8 +28,7 @@ navigation:
   - name: about us
     id: f9a33562-5f49-4e51-95e9-c68ac47cdf9e
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e234b19a-6452-4b8e-9a5c-1723ef7a9c93.ico
+favicon: null
 collections:
   - index:
       path: /
@@ -78,6 +77,6 @@ purpose:
     label: Email is king
 github: true
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/855aa7b8-3139-4408-82eb-914bc60bff27.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc1b4d54-23ec-4471-b6b6-3eac41714950.png
 content_rating:
   adult: false
