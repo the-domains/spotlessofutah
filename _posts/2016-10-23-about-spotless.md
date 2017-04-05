@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-05T04:38:33.778Z'
+datePublished: '2017-04-05T04:41:09.882Z'
 sourcePath: _posts/2016-10-23-about-spotless.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-05T04:38:33.038Z'
+dateModified: '2017-04-05T04:41:08.937Z'
 title: ''
 publisher: {}
 description: ABOUT SPOTLESS
@@ -21,7 +21,11 @@ Our company is built on a passion for customer service. Our focus is your bottom
 
 ---
 
-![When I started Spotless of Utah, in 2006, I simply had dreams of paying off my student loan debt. While my company helped that cause, my dreams have evolved tremendously. As president of Spotless of Utah, I’ve become driven to build a company that provides the best janitorial services and customer service experiences for clients nationwide. Through partnering with clients and communities, I’m working to build a company that people respect and love, whether they’re working with us as clients or for us as employees.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba49c20-ec13-4e85-be8b-9300488411df.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba49c20-ec13-4e85-be8b-9300488411df.jpg)
+
+NICK SANDERS | PRESIDENT
+
+When I started Spotless of Utah, in 2006, I simply had dreams of paying off my student loan debt. While my company helped that cause, my dreams have evolved tremendously. As president of Spotless of Utah, I've become driven to build a company that provides the best janitorial services and customer service experiences for clients nationwide. Through partnering with clients and communities, I'm working to build a company that people respect and love, whether they're working with us as clients or for us as employees.
 ![VICE PRESIDENT](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84fde44e-ec11-4dfa-88ae-01dafeeb70bc.jpg)
 
 Spotless is my pride and joy. As vice president of our company, I wholeheartedly believe our success, and our future, will be built on a foundation rooted in trust, value and communication. These are at the heart of everything we do as a company, and they motivate our teams of cleaning specialists, quality assurance personnel and our clients. We strive to make every customer a fan of the services we provide them, and we'll never tire of that mission.
