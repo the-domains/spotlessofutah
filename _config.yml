@@ -41,7 +41,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: THE TIDY UPKEEP OF YOUR OFFICE REFLECTS ON YOUR BUSINESS. WE'LL MAKE IT SHINE.
+title: SPOTESS OF UTAH
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
