@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-05T05:09:16.859Z'
+datePublished: '2017-04-05T05:16:41.292Z'
 sourcePath: _posts/2016-10-23-about-spotless.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-05T05:09:16.498Z'
+dateModified: '2017-04-05T05:16:41.027Z'
 title: ''
 publisher: {}
 description: ABOUT SPOTLESS
