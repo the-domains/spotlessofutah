@@ -41,7 +41,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: SPOLTESS CLEANING SERVICES
+title: THE TIDY UPKEEP OF YOUR OFFICE REFLECTS ON YOUR BUSINESS. WE'LL MAKE IT SHINE.
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
