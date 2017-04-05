@@ -25,7 +25,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: about us
+  - name: About us
     id: f9a33562-5f49-4e51-95e9-c68ac47cdf9e
     type: content
 favicon: null
