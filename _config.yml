@@ -41,7 +41,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Commercial Office Cleaning Services by Spotless
+title: SPOLTESS CLEANING SERVICES
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
