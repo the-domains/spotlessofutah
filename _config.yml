@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: ' '
+name: SPOTLESS OF UTAH
 cta:
   bucket: null
   version: null
@@ -41,7 +41,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: COMMERCIAL CLEANING SERVICES
+title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
