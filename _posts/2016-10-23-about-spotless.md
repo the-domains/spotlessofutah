@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-04-08T19:06:14.429Z'
+datePublished: '2017-04-08T19:08:01.625Z'
 sourcePath: _posts/2016-10-23-about-spotless.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-04-08T19:06:13.448Z'
+dateModified: '2017-04-08T19:08:00.922Z'
 title: ''
 publisher: {}
 description: ABOUT SPOTLESS
@@ -37,11 +37,7 @@ JACKIE SANDERS
 DIRECTOR OF HUMAN RESOURCES
 
 As Nick's wife, when I said "I do" to my husband, I said "I do" to Spotless. Marry an owner, marry a company! Luckily, our shared passion for Spotless makes us passionately and equally committed to our employees and our customers. I'm so thankful to have been given the opportunity to bring my background in payroll administration and human resources to the company. It's important to me that our incredible employees know how much their positive contributions to Blueox are valued and appreciated. They truly make everything that we do for our clients possible.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dd8f759-7671-4f7e-8c6f-393115dbd921.jpg)
-
-TRUST & ACCOUNTABILITY
-
-Commercial cleaning services are often provided after hours and overnight.We understand the trust necessary to allow a cleaning service's employees into your company's homes, and we honor that trust through strict hiring practices, frequent inspections and transparent conversations about our results. Communication with our clients makes our relationships stronger. Spotless loves to hear from our clients, and that's why our customer service team makes sure you can always reach us with questions or comments. We want to hear your feedback, and constantly work to provide exactly what your company needs.
+![Commercial cleaning services are often provided after hours and overnight.We understand the trust necessary to allow a cleaning service’s employees into your company’s homes, and we honor that trust through strict hiring practices, frequent inspections and transparent conversations about our results. Communication with our clients makes our relationships stronger. Spotless loves to hear from our clients, and that’s why our customer service team makes sure you can always reach us with questions or comments. We want to hear your feedback, and constantly work to provide exactly what your company needs.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dd8f759-7671-4f7e-8c6f-393115dbd921.jpg)
 
 LET US HELP YOUR BUSINESS SHINE.  
 We'd love the opportunity to tell you more about our services and provide you with a quote customized for your company's needs. Reach out today!
