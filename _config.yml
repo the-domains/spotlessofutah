@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: SPOTLESS OF UTAH
+name: ' '
 cta:
   bucket: null
   version: null
@@ -60,7 +60,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -72,7 +71,7 @@ description: ''
 purpose:
   - type: contact
     url: 'tel:4358819189'
-    label: (435) 881-9189
+    label: Call 4358819189
   - type: contact
     url: 'mailto:info@spotlssofutah.com'
     label: Email us for a quote
