@@ -43,7 +43,7 @@ collections:
       path: '/:title/'
 title: ''
 content: []
-description: THE TIDY UPKEEP OF YOUR OFFICE REFLECTS ON YOUR BUSINESS. WE'LL MAKE IT SHINE.
+description: ''
 purpose:
   - type: contact
     url: 'tel:4358819189'
