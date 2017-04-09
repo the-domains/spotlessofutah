@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: How Much?”
-dateModified: '2017-04-09T19:37:00.908Z'
-datePublished: '2017-04-09T19:37:01.557Z'
+dateModified: '2017-04-09T19:40:09.587Z'
+datePublished: '2017-04-09T19:40:10.361Z'
 title: FREQUENTLY ASKED QUESTIONS
 author: []
 publisher: {}
@@ -10,13 +10,11 @@ via: {}
 hasPage: false
 sourcePath: >-
   _posts/2017-04-06-we-provide-a-variety-of-janitorial-services-allowing-us-to-c.md
-datePublishedOriginal: '2017-04-09T19:37:01.557Z'
 starred: false
+datePublishedOriginal: '2017-04-09T19:37:01.557Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6357c909-744c-49ec-a83d-28779239b494.png)
-
 ## FREQUENTLY ASKED QUESTIONS
 
 **How Much?"**
