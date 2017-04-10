@@ -41,7 +41,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: ''
+title: Experts in Commercial Cleaning
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
