@@ -8,8 +8,8 @@ description: >-
   transparent communication and high-quality results, our clients feel confident
   about our work cleaning and maintaining your properties day after day. You can
   count on Spotless.
-dateModified: '2017-04-05T17:40:42.747Z'
-datePublished: '2017-04-05T17:40:43.561Z'
+dateModified: '2017-04-10T01:22:06.121Z'
+datePublished: '2017-04-10T01:22:06.739Z'
 title: TRUST THE SPOTLESS TEAM
 author: []
 publisher: {}
