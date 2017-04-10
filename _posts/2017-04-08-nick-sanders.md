@@ -8,16 +8,16 @@ description: >-
   experiences for clients nationwide. Through partnering with clients and
   communities, I’m working to build a company that people respect and love,
   whether they’re working with us as clients or for us as employees.
-dateModified: '2017-04-09T19:37:00.807Z'
-datePublished: '2017-04-09T19:37:01.413Z'
+dateModified: '2017-04-10T01:22:06.121Z'
+datePublished: '2017-04-10T01:22:06.697Z'
 title: ABOUT BLUEOX
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-04-08-nick-sanders.md
 hasPage: false
-datePublishedOriginal: '2017-04-09T19:37:01.413Z'
 starred: false
+datePublishedOriginal: '2017-04-09T19:37:01.413Z'
 _type: Blurb
 
 ---
