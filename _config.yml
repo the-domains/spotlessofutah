@@ -19,7 +19,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: ' '
+name: Spotless of Utah
 cta:
   bucket: null
   version: null
@@ -43,7 +43,9 @@ collections:
       path: '/:title/'
 title: Experts in Commercial Cleaning
 content: []
-description: Janitorial Services
+description: >-
+  Providing Janitorial services in your local Utah area - Logan, Brigham city,
+  and Ogden
 purpose:
   - type: contact
     url: 'tel:4358819189'
