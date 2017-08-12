@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   We’d love the opportunity to tell you more about our services and provide you
   with a quote customized for your company’s needs. Reach out today!
-dateModified: '2017-04-10T01:22:06.121Z'
-datePublished: '2017-04-10T01:22:06.745Z'
+dateModified: '2017-08-12T00:31:15.128Z'
+datePublished: '2017-08-12T00:31:15.563Z'
 title: LET US HELP YOUR BUSINESS SHINE.
 author: []
 publisher: {}
@@ -18,5 +18,6 @@ _type: Article
 
 ---
 ![We’d love the opportunity to tell you more about our services and provide you with a quote customized for your company’s needs. Reach out today!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d6d5f9e-fd10-4975-8876-0abfa677105c.jpg)
+[Get a Quote][0]
 
-<button data-role="cta" style="">Get a Quote</button>
+[0]: http://blueox.co/quote.php
