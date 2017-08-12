@@ -32,6 +32,9 @@ navigation:
   - name: Contact us
     url: 'http://blueox.co/contact.php'
     type: external
+  - name: Services
+    url: 'http://blueox.co/services.php'
+    type: external
 favicon: null
 collections:
   - index:
