@@ -22,8 +22,9 @@ analytics:
   twitter: null
   google: null
   facebook: null
-logo: null
-name: Spotless of Utah
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/950a5892-2a30-431a-a9a3-8525850438ac.png
+name: ' '
 cta:
   bucket: null
   version: null
