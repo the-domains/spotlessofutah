@@ -8,8 +8,8 @@ description: >-
   transparent communication and high-quality results, our clients feel confident
   about our work cleaning and maintaining your properties day after day. You can
   count on Spotless.
-dateModified: '2017-04-10T01:22:06.121Z'
-datePublished: '2017-04-10T01:22:06.739Z'
+dateModified: '2017-08-12T00:33:31.157Z'
+datePublished: '2017-08-12T00:33:31.606Z'
 title: TRUST THE SPOTLESS TEAM
 author: []
 publisher: {}
@@ -25,5 +25,6 @@ _type: Blurb
 # TRUST THE SPOTLESS TEAM
 
 Your work environment plays an important role in the success of your business. That's why every Spotless employee strives to perform exceptional janitorial work, building upkeep and customer service. We always do what we promise, and we promise to create WOW experiences for our clients! With a reputation for transparent communication and high-quality results, our clients feel confident about our work cleaning and maintaining your properties day after day. You can count on Spotless.
+[See what our Clients are saying!!!][0]
 
-<button data-role="cta" style="">See what our Clients are saying!!!</button>
+[0]: http://blueox.co/testimonials.php
