@@ -1,5 +1,6 @@
-layout_spectrum: 0.8103083185177519
 typography_spectrum: 0.7530831580469846
+content_rating:
+  adult: false
 color:
   saturation: 0.9770588033678619
   brandStrength: 0.40887985042951047
@@ -11,14 +12,17 @@ color:
     - '#63C7D8'
     - '#F4FBFD'
   rhythmicContrast: 0.5055844760960946
+github: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8103083185177519
 analytics:
   twitter: null
   google: null
   facebook: null
+logo: null
 name: Spotless of Utah
 cta:
   bucket: null
@@ -28,6 +32,9 @@ navigation:
   - name: About Us
     id: f9a33562-5f49-4e51-95e9-c68ac47cdf9e
     type: content
+  - name: Contact us
+    url: 'http://blueox.co/contact.php'
+    type: external
 favicon: null
 collections:
   - index:
@@ -53,7 +60,3 @@ purpose:
   - type: contact
     url: 'mailto:info@spotlssofutah.com'
     label: Contact us
-github: true
-logo: null
-content_rating:
-  adult: false
