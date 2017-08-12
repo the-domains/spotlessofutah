@@ -29,9 +29,6 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: About Us
-    id: f9a33562-5f49-4e51-95e9-c68ac47cdf9e
-    type: content
   - name: Contact us
     url: 'http://blueox.co/contact.php'
     type: external
