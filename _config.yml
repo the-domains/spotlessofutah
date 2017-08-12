@@ -35,6 +35,9 @@ navigation:
   - name: Services
     url: 'http://blueox.co/services.php'
     type: external
+  - name: Quote
+    url: 'http://blueox.co/quote.php'
+    type: external
 favicon: null
 collections:
   - index:
